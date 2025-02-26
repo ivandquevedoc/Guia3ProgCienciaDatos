@@ -9,5 +9,5 @@ Repositorio de la Guia3 del curso Programación para la Ciencia de Datos EAN - G
 2. Se aplican las recomendaciones e instrucciones impartidas en las sesiones previas del módulo respecto a carga y limpieza de datos.
 
 ## Integrantes Grupo 14
-Giovanny Castillo Castillo gcastil58420
-Ivan Dario Quevedo Contreras iqueved26072
+1. Giovanny Castillo Castillo gcastil58420
+2. Ivan Dario Quevedo Contreras iqueved26072
