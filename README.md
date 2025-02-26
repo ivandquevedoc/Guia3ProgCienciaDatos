@@ -7,3 +7,7 @@ Repositorio de la Guia3 del curso Programación para la Ciencia de Datos EAN - G
 ## Descripción del Trabajo:
 1. En los items comparativos, se trata de indicar un análisis corto o presuntorio de la comparación, el cuál debe ser validado por un análisis más profundo, para confirmar o desmentir.
 2. Se aplican las recomendaciones e instrucciones impartidas en las sesiones previas del módulo respecto a carga y limpieza de datos.
+
+## Integrantes Grupo 14
+Giovanny Castillo Castillo gcastil58420
+Ivan Dario Quevedo Contreras iqueved26072
